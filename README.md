@@ -19,4 +19,6 @@ In the HW I wrote a program that converted postfix expression to an infix expres
 Lab 6 folder consists two seperate files, Lab and HW. In the lab I designed a function that when given a root of a binary search tree it determined if the BST was valid. Then created a function that found the min and max value of BST.
 In the HW I implemented a binary search tree
 
-Lab 7 folder consists of one file. In the lab I created a function that would find frequencies of individual words.
+Lab 7 folder consists of two files. In the lab I created a function that would find frequencies of individual words. In the hw I implemented a huffman coding.
+
+Lab 8 folder consists of one file. In the lab I created a quick sort alogithm to sort through an array.
